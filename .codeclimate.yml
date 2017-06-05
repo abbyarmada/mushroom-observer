@@ -1,4 +1,4 @@
- engines:
+engines:
   brakeman:
     enabled: true
   bundler-audit:
